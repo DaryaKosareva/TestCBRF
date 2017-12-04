@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.linuxense:javadbf:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linuxense/javadbf/0.4.0/f103703cac98cba387f62e13adf44591fe7f8210/javadbf-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linuxense/javadbf/0.4.0/c957f6970d07a292bf37c8c9b65e112c98e38df3/javadbf-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
